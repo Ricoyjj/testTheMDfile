@@ -46,6 +46,6 @@
   }
 ```
 
-### go- Map-Reduce http://nil.csail.mit.edu/6.824/2016/labs/lab-1.html
+### go- 分布式Map-Reduce http://nil.csail.mit.edu/6.824/2016/labs/lab-1.html
 
-
+### go- 爬虫  http://studygolang.com/articles/225
