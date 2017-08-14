@@ -45,3 +45,7 @@
     site : "http://jser.me"
   }
 ```
+
+### go- Map-Reduce http://nil.csail.mit.edu/6.824/2016/labs/lab-1.html
+
+
